@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    background-image: url('../../img/img_3.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0 5px 0;
+}
+h2{
+    padding: 0 5px 0 5px;
+}
+
